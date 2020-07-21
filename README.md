@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on nothing right now.
 - 🤔 I’m looking for help with nothing right now.
 - 💬 Ask me about Python/Javascript/C languages.
-- 📫 How to reach me:
-        * Discord: MrShadow#0001 
+- 📫 How to reach me: Discord: MrShadow#0001 
 - ⚡ Fun fact: I'm 16 and the first programming language I learnt was html and css at the age of 11.
