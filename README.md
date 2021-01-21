@@ -13,4 +13,4 @@ My name is Usman. I'm a 16 year old aspiring software developer. Whilst most day
 
 ### 📪 Contact Me
 - **Discord:** MrShadow#2778
-- **Email:** usmanmahmood2914@protonmail.com
+- **Email:** usmanmahmood2914@gmail.com
