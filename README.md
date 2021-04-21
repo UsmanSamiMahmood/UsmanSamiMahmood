@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=umahmood21&color=blueviolet" alt="umahmood21" />
 
-My name is Usman. I'm a 16 year old aspiring software developer. Whilst most days I tend to be studying, every now and then I will pursue my passion for computer science & programming.
+My name is Usman. I'm a 16 year old aspiring software engineer. Whilst most days I tend to be studying, every now and then I will pursue my passion for computer science & programming.
 
 #### Tools and Programming Languages
 
