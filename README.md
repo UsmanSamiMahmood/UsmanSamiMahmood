@@ -15,7 +15,6 @@ My name is Usman. I'm a 16 year old aspiring software developer. Whilst most day
 - A Level NEA Practice Project - [Repository](https://github.com/umahmood21/A-Level-Practice)
 
 ### 📪 Contact Me
-- **Discord:** MrShadow#2778
 - **Email:** usmanmahmood2914@gmail.com
 
 ### Statistics
