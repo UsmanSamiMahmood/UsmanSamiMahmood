@@ -11,12 +11,11 @@ My name is Usman. I'm a 16 year old software engineer. Whilst most days I tend t
   - **Frameworks**: Vue, React, EJS, Express, Revel and Koa.
   - **Databases**: Firebase, MongoDB, Supabase, Microsoft Access, PostgreSQL and MySQL.
 
-### 🔭 I'm currently working on:  
-- A private project.
-
-### 📪 Contact Me
-- **Email:** umahmood214@gmail.com
-- **Instagram:** umahmood21
+#### Contact me on:  
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/umahmood21)
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/umahmood21)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/umahmood21)
+[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:umahmood214@gmail.com)
 
 ### Statistics
 
